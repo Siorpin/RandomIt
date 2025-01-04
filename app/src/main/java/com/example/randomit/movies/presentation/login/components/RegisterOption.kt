@@ -1,6 +1,5 @@
-package com.example.randomit.moveis.presentation.login.components
+package com.example.randomit.movies.presentation.login.components
 
-import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton

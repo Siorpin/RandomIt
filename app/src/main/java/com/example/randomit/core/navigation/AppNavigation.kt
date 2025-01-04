@@ -5,7 +5,7 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.randomit.moveis.presentation.login.LoginScreen
+import com.example.randomit.movies.presentation.login.LoginScreen
 
 @Composable
 fun AppNavigation(
